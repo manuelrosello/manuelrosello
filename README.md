@@ -1,7 +1,8 @@
 - 👋 hi, I’m @manuelrosello
+- ♥️ i love bouldering and writing music
 - 👀 i’m interested in traveling while coding
 - 🌱 i’m currently learning react and next.js
-- 💞️ i’m looking to collaborate on creative projects
+- 💻 i’m forward looking to collaborate on creative projects
 - 📫 how to reach me: contact@manuelrosello.com
 - 😄 pronouns: he/him
 <!--- - ⚡ fun fact: ... --->
