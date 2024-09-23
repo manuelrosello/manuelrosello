@@ -1,12 +1,12 @@
 ```
-- 👋 hi, I’m @manuelrosello
-- 😍 i love bouldering and writing music
-- 👀 i’m interested in traveling around the world while coding
-- 🛠️ i've worked with angular 2, java spring boot and python + fastapi
-- 🌱 i’m currently learning react and next.js
-- 💻 i’m forward looking to collaborate on creative projects
-- 📫 how to reach me: contact@manuelrosello.com
-- 😄 pronouns: he/him
+👋 hi, I’m @manuelrosello
+😍 i love bouldering and writing music
+👀 i’m interested in traveling around the world while coding
+🛠️ i've worked with angular 2, java spring boot and python + fastapi
+🌱 i’m currently learning react and next.js
+💻 i’m forward looking to collaborate on creative projects
+📫 how to reach me: contact@manuelrosello.com
+😄 pronouns: he/him
 ```
 <!--- - ⚡ fun fact: ... --->
 
