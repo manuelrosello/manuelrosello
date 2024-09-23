@@ -1,3 +1,4 @@
+```
 - 👋 hi, I’m @manuelrosello
 - ♥️ i love bouldering and writing music
 - 👀 i’m interested in traveling while coding
@@ -5,6 +6,7 @@
 - 💻 i’m forward looking to collaborate on creative projects
 - 📫 how to reach me: contact@manuelrosello.com
 - 😄 pronouns: he/him
+```
 <!--- - ⚡ fun fact: ... --->
 
 <!---
